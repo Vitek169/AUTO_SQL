@@ -1,0 +1,3 @@
+SELECT *
+FROM AUTO
+WHERE CarBrand = 'Toyota'

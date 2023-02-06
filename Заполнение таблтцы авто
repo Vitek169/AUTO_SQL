@@ -1,0 +1,14 @@
+INSERT INTO AUTO
+	(CarBrand, Model, YearOfRealease, Price)
+VALUES
+	('Toyota', 'Prius', 2015, 700000),
+	('Audi', 'A4', 2017, 1000000),
+	('Lada', 'Granta', 2014, 350000),
+	('Toyota', 'Auris', 2015, 700000),
+	('Ford', 'Focus', 2012, 250000),
+	('Lexus', 'RX360', 2020, 1700000),
+	('Ford', 'F - 150', 2021, 3500000),
+	('Chevrolet', 'Capric', 1965, 8340000),
+	('Hyndai', 'Solyaris', 2012, 420000),
+	('Honda', 'Civic', 2011, 500000);
+	
